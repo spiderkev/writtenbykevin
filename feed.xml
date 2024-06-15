@@ -39,29 +39,6 @@ As a new WordPress user, you should go to <a href="http://writtenbykevin.com/wp-
         </content>
     </entry>
     <entry>
-        <title>Untitled #1</title>
-        <author>
-            <name>Kevin</name>
-        </author>
-        <link href="https://spiderkev.github.io/writtenbykevin/untitled-1.html"/>
-        <id>https://spiderkev.github.io/writtenbykevin/untitled-1.html</id>
-
-        <updated>2013-01-09T19:34:46+00:00</updated>
-            <summary>
-                <![CDATA[
-                    Money is materialistic - it's something you earn. Time is divine - it's something that's given to you. Spend wisely.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Money is materialistic - it's something you earn.
-Time is divine - it's something that's given to you.
-Spend wisely.</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Other</title>
         <author>
             <name>Kevin</name>
@@ -491,6 +468,28 @@ Nah... thats not how
 its suppose to be,
 u gotta be a king
 n give ur self for free.</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>(spoken word) - Drowning Despair</title>
+        <author>
+            <name>Kevin</name>
+        </author>
+        <link href="https://spiderkev.github.io/writtenbykevin/spoken-word-drowning-despair.html"/>
+        <id>https://spiderkev.github.io/writtenbykevin/spoken-word-drowning-despair.html</id>
+
+        <updated>2010-07-21T23:59:43+01:00</updated>
+            <summary>
+                <![CDATA[
+                    [embed]http://www.youtube.com/watch?v=Nog5DbztSOU[/embed] Audio Project for a digital media class at the University
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>[embed]http://www.youtube.com/watch?v=Nog5DbztSOU[/embed]</p>
+<p>Audio Project for a digital media class at the University</p>
 
             ]]>
         </content>
