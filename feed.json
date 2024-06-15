@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Written by Kevin",
     "description": "",
-    "home_page_url": "https://github.com/spiderkev/writtenbykevin",
-    "feed_url": "https://github.com/spiderkev/writtenbykevin/feed.json",
+    "home_page_url": "https://spiderkev.github.io/writtenbykevin",
+    "feed_url": "https://spiderkev.github.io/writtenbykevin/feed.json",
     "user_comment": "",
     "author": {
         "name": "Kevin"
     },
     "items": [
         {
-            "id": "https://github.com/spiderkev/writtenbykevin/sample-page.html",
-            "url": "https://github.com/spiderkev/writtenbykevin/sample-page.html",
+            "id": "https://spiderkev.github.io/writtenbykevin/sample-page.html",
+            "url": "https://spiderkev.github.io/writtenbykevin/sample-page.html",
             "title": "Sample Page",
             "summary": "This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might&hellip;",
             "content_html": "<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>\n<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my blog. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>\n<p>\n\n...or something like this:</p>\n<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>\n<p>\n\nAs a new WordPress user, you should go to <a href=\"http://writtenbykevin.com/wp-admin/\">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>\n",
@@ -24,8 +24,8 @@
             "date_modified": "2024-06-15T14:44:44+01:00"
         },
         {
-            "id": "https://github.com/spiderkev/writtenbykevin/untitled-1.html",
-            "url": "https://github.com/spiderkev/writtenbykevin/untitled-1.html",
+            "id": "https://spiderkev.github.io/writtenbykevin/untitled-1.html",
+            "url": "https://spiderkev.github.io/writtenbykevin/untitled-1.html",
             "title": "Untitled #1",
             "summary": "Money is materialistic - it's something you earn. Time is divine - it's something that's given to you. Spend wisely.",
             "content_html": "<p>Money is materialistic - it's something you earn.\nTime is divine - it's something that's given to you.\nSpend wisely.</p>\n",
@@ -38,8 +38,8 @@
             "date_modified": "2024-06-15T14:44:45+01:00"
         },
         {
-            "id": "https://github.com/spiderkev/writtenbykevin/other.html",
-            "url": "https://github.com/spiderkev/writtenbykevin/other.html",
+            "id": "https://spiderkev.github.io/writtenbykevin/other.html",
+            "url": "https://spiderkev.github.io/writtenbykevin/other.html",
             "title": "Other",
             "content_html": "\n\n",
             "author": {
@@ -51,8 +51,8 @@
             "date_modified": "2024-06-15T14:44:44+01:00"
         },
         {
-            "id": "https://github.com/spiderkev/writtenbykevin/stages-of-spirituality.html",
-            "url": "https://github.com/spiderkev/writtenbykevin/stages-of-spirituality.html",
+            "id": "https://spiderkev.github.io/writtenbykevin/stages-of-spirituality.html",
+            "url": "https://spiderkev.github.io/writtenbykevin/stages-of-spirituality.html",
             "title": "Stages of Spirituality",
             "summary": "The first stage is Chaos; when people pretend to care, to cover up for principles that aren't really there. They pretend to love, and they think it's genuine; but their relations with others are fake, and self-serving. Some may be quite disciplined, and succeed in&hellip;",
             "content_html": "<p>The first stage is Chaos;\nwhen people pretend to care,\nto cover up for principles\nthat aren't really there.</p>\n<p>They pretend to love,\nand they think it's genuine;\nbut their relations with others\nare fake, and self-serving.</p>\n<p>Some may be quite disciplined,\nand succeed in their profession;\nbut they remain unprincipled,\ngoverned by their own will.</p>\n<p>Many advance,\nto the stage of Institutions,\nwhen they submit themselves\nto its laws and principles.</p>\n<p>Dependent on the institution,\nthey do as their told;\nbut they often focus on its means,\nand forget its goals.</p>\n<p>They are threatened by those who think differently.\nThey have a “us against the world” mentality.</p>\n<p>Some advance,\nto the stage of Skepticism,\nwhen they demand ideas that are\nlogical and tangible.</p>\n<p>They are genuinely pro-social,\nthough individualistic;\nwhich distinguishes them,\nfrom the stage of the chaotic.</p>\n<p>They are skeptical, and don't believe everything they have read.\nThey dismiss being institutionalized, in order to be saved.</p>\n<p>They are abstracted from illusions,\nand detached from institutions.\nThey don't live in extremes,\nbut somewhere in between.</p>\n<p>However, they live in a dilemma\nbetween mysticism and science,\nand they can't decide\non where their heart is.</p>\n<p>Some continue their seeking,\nand a few find it,\nand transcend\nto the stage of Enlightenment.</p>\n<p>They transcend their mind,\ndilemmas and inhibitions;\ntheir self, cultures, \nreligions and institutions.</p>\n<p>They find bliss, instead of \nwalls they had thought to exist,\nand see beauty, in the notion\nof a one world family...</p>\n<p>P.S. People can often be in flux;\nthey can advance or backslide,\nso this shouldn't be taken intently,\nit only serves as a rough guide...</p>\n<p>\nInspiration:\nBook: \"People of the Lie,\" by M. Scott Peck</p>\n",
@@ -65,8 +65,8 @@
             "date_modified": "2024-06-15T14:44:46+01:00"
         },
         {
-            "id": "https://github.com/spiderkev/writtenbykevin/burst.html",
-            "url": "https://github.com/spiderkev/writtenbykevin/burst.html",
+            "id": "https://spiderkev.github.io/writtenbykevin/burst.html",
+            "url": "https://spiderkev.github.io/writtenbykevin/burst.html",
             "title": "Burst!",
             "summary": "i see no light on a sunny day, I hear no sound on the freeway, I feel no hunger when i don't eat, I feel tired when i sleep. You think I’m tough, but I’m not, I’m weak. I'm physically strong, but I can't take&hellip;",
             "content_html": "<p>i see no light \non a sunny day,\nI hear no sound\non the freeway,\nI feel no hunger\nwhen i don't eat,\nI feel tired when i sleep.</p>\n<p>You think I’m tough,\nbut I’m not, I’m weak.\nI'm physically strong,\nbut I can't take this heat. </p>\n<p>I have no love or self respect;\nI have no past, just regret:\nI'm a king of confusion.\nI’m a slave of emotion.\nI’m a dupe of depression.</p>\n<p>I hear no music\nwhen i hear a tune,\nI have no life\noutside my room,\nI set my clock\nfor 11 am,\ni get up, \nand then sleep again. </p>\n<p>I get no rest on a quiet night;\nI fall away when I outta fight:\nI'm a king of confusion.\nI’m a slave of emotion.\nI’m a dupe of depression.</p>\n<p>You think I'm fearless,\nbut I’m not, I'm scared.\nI look bold, \nbut I'm timid instead.</p>\n<p>My reality is faulty,\na bland - a tasteless story:\nI'm a king of confusion.\nI’m a slave of emotion.\nI’m a dupe of depression.</p>\n",
@@ -79,8 +79,8 @@
             "date_modified": "2024-06-15T14:44:46+01:00"
         },
         {
-            "id": "https://github.com/spiderkev/writtenbykevin/today-yesterday-and-tomorrow.html",
-            "url": "https://github.com/spiderkev/writtenbykevin/today-yesterday-and-tomorrow.html",
+            "id": "https://spiderkev.github.io/writtenbykevin/today-yesterday-and-tomorrow.html",
+            "url": "https://spiderkev.github.io/writtenbykevin/today-yesterday-and-tomorrow.html",
             "title": "Today, Yesterday and Tomorrow",
             "summary": "Decisions grow and you feel low, and pressing thoughts they abrupt your flow, and the road is steep and your hurting deep. You got nothing left to make that leap. If things aren’t going your way, step back, but don’t walk away, ‘cause nothing is&hellip;",
             "content_html": "<p>Decisions grow\nand you feel low,\nand pressing thoughts\nthey abrupt your flow,\nand the road is steep\nand your hurting deep.\nYou got nothing left\nto make that leap.</p>\n<p>If things aren’t going your way,\nstep back, but don’t walk away,\n‘cause nothing is here to stay;\ntomorrow is another day.</p>\n<p>You look back;\nyou see regret,\nfailure, mistakes\nyou recollect,\ndifferent goals \nyou shoulda set,\nyour thoughts - your choices,\nthey were mislead.</p>\n<p>If things didn’t go your way,\nlet go, its okay,\n‘cause nothing is here to stay;\ntoday is a new day.</p>\n<p>With today’s pace,\ntomorrow is a distant place,\nit’s dark and desolate.\nAnd you contemplate,\nthe moves to make\nto help mitigate\nthe uncertainty of fate...</p>\n<p>What if things don’t go your way?\nlet go, don’t fall away,\n‘cause nothing is here to stay;\nFight tomorrow's battles tomorrow\nand today's battles today.</p>\n",
@@ -93,8 +93,8 @@
             "date_modified": "2024-06-15T14:44:46+01:00"
         },
         {
-            "id": "https://github.com/spiderkev/writtenbykevin/our-herd.html",
-            "url": "https://github.com/spiderkev/writtenbykevin/our-herd.html",
+            "id": "https://spiderkev.github.io/writtenbykevin/our-herd.html",
+            "url": "https://spiderkev.github.io/writtenbykevin/our-herd.html",
             "title": "Our Herd",
             "summary": "We are a herd, we follow the masses that define the terms to which we practice, and strive to be what everyone else is, and ignore the truths by numbing our senses, just to fit in with our bros and our lasses. We cloth our&hellip;",
             "content_html": "<p>We are a herd, we follow the masses\nthat define the terms to which we practice,\nand strive to be what everyone else is,\nand ignore the truths by numbing our senses,\njust to fit in with our bros and our lasses.</p>\n<p>We cloth our bodies with jewels and crosses,\nyet we're hungry, we live in darkness,\nwe ignore our wins but count our losses,\nsatisfaction is our temporary status.</p>\n<p>And those people outside our boundaries,\nthey have no name no identities,\nwe trade their sweat to build our economies,\nand yet of them is what our fear is.</p>\n<p>And the media, they don't stay true,\nthey don't show what they're not supposed to,\nthey're no service, they're a business too.\nProfit is their point of view.</p>\n<p>And Entertainment, it's a funny word,\nit is amusing, obscure and absurd.\nit distracts us from our world...\nit kills our time and it drives our herd.</p>\n",
@@ -107,8 +107,8 @@
             "date_modified": "2024-06-15T14:44:46+01:00"
         },
         {
-            "id": "https://github.com/spiderkev/writtenbykevin/my-newsletter-jan-2011.html",
-            "url": "https://github.com/spiderkev/writtenbykevin/my-newsletter-jan-2011.html",
+            "id": "https://spiderkev.github.io/writtenbykevin/my-newsletter-jan-2011.html",
+            "url": "https://spiderkev.github.io/writtenbykevin/my-newsletter-jan-2011.html",
             "title": "My Newsletter, Jan 2011",
             "summary": "The engine is roaring but everyone is quiet, and its dark around me, except for my reading light. I'm on a greyhound bus, 'cause i couldn't get a flight; my destination - Vancouver, and i`ll be riding all night. I thought I'd take this time&hellip;",
             "content_html": "<p>The engine is roaring\nbut everyone is quiet,\nand its dark around me,\nexcept for my reading light.</p>\n<p>I'm on a greyhound bus,\n'cause i couldn't get a flight;\nmy destination - Vancouver,\nand i`ll be riding all night.</p>\n<p>I thought I'd take this time\nto write you`ll another letter;\nas some of you`ll know,\nI do this every quarter.</p>\n<p>I have moved away for studies,\nI think I had sent you`ll that memo...\nits just a 2 hour ferry from Vancouver,\nthe city is called Nanaimo.</p>\n<p>Nanaimo is a small city\nwith a population of about 90k.\nIt's a bit quiet, with not much to do,\nbut i like it that way.</p>\n<p>It's a coastal city on an island,\nwith a relatively warmer weather,\na good place for a retiree\nor a nature lover.</p>\n<p>Anyway, I like its laid-back vibe,\nespecially at it's university,\nand I have been doing well there so far\nso I think its working out for me.</p>\n<p>My last semester was great!\nand i was sad to see it end,\n'cause I enjoyed all the classes I took,\nand my results were good as well.</p>\n<p>I don't work part-time anymore,\nand don't expect to next sem either,\nso I`ll just be taking 4 core courses,\nand try to intern in the summer.</p>\n<p>I recently moved into an apartment there,\nand said good bye to my dorm,\nbut I spent my last few weeks in Calgary,\nI had some quality time at home!</p>\n<p>We had a wonderful Christmas and New Years\n- they were both memorable events.\nActually my whole holiday at home was amazing,\nit didn't have any dull moments.</p>\n<p>I should probably close soon,\nfor this rhyme is growing fast...\nDo write back to me now,\nwhenever you`ll have a chance.</p>\n<p>Also, send me your latest email address,\nsince my address book needs updating.\nI don't wanna use Facebook for this no more,\nit doesn't allow mass messaging.</p>\n<p>Alright then, time to switch off my light\nand put down my pen.\nMy seasons greetings to you,\nand have a happy 2011!</p>\n",
@@ -121,8 +121,8 @@
             "date_modified": "2024-06-15T14:44:44+01:00"
         },
         {
-            "id": "https://github.com/spiderkev/writtenbykevin/walk-to-the-park-2.html",
-            "url": "https://github.com/spiderkev/writtenbykevin/walk-to-the-park-2.html",
+            "id": "https://spiderkev.github.io/writtenbykevin/walk-to-the-park-2.html",
+            "url": "https://spiderkev.github.io/writtenbykevin/walk-to-the-park-2.html",
             "title": "Walk to the park",
             "summary": "[embed]http://www.youtube.com/watch?v=B-UUuK3fxb4[/embed] Audio Project for DIGI 270, 2010. Walk to the park (an evening in Newfoundland).",
             "content_html": "<p>[embed]http://www.youtube.com/watch?v=B-UUuK3fxb4[/embed]</p>\n<p>Audio Project for DIGI 270, 2010. Walk to the park (an evening in Newfoundland).</p>\n",
@@ -136,8 +136,8 @@
             "date_modified": "2024-06-15T14:44:46+01:00"
         },
         {
-            "id": "https://github.com/spiderkev/writtenbykevin/give-ur-self.html",
-            "url": "https://github.com/spiderkev/writtenbykevin/give-ur-self.html",
+            "id": "https://spiderkev.github.io/writtenbykevin/give-ur-self.html",
+            "url": "https://spiderkev.github.io/writtenbykevin/give-ur-self.html",
             "title": "Give ur self",
             "summary": "(Verse 1) So ur drivin in ur car on that bright lit street, lookin for some fun and a place to eat. The town 's goin quiet n the nights growin long, n ur gettin all restless a thousand miles from home. (Verse 2) Ur&hellip;",
             "content_html": "<p><em>(Verse 1)</em>\nSo ur drivin in ur car\non that bright lit street,\nlookin for some fun\nand a place to eat.\nThe town 's goin quiet\nn the nights growin long,\nn ur gettin all restless\na thousand miles from home.</p>\n<p><em>(Verse 2)</em>\nUr lookin for a break\nfrom ur day-to-day life,\nUr lookin for a change\nfrom what u left back.\nbut ur lookin for a new\nthat resembles the old.\nU aien't lookin for change,\nur forgettin ur goal.</p>\n<p><em>(Chorus 1)</em>\nWhy be a begger?\nholdin a bowl,\naskin the world\nto fill your soul.\nNah... thats not how\nits suppose to be,\nu gotta be a king\nn give ur self for free.</p>\n<p><em>(Verse 3)</em>\nSo ur all dressed up\nin those fancy clothes.\nwith gelled up hair\nand a pimped up pose.\nAnd all these folks\nare below your nose,\n'cause ur here for chicks\nand to flaunt the bros.</p>\n<p><em>(Chorus 2)</em>\nYou can't party\nbein that proud,\nwantin to be served\nby the rest of the crowd.\nNah... thats not how\nits suppose to go,\nu gotta broaden ur mind\nand start the show.</p>\n<p><em>(Verse 4)</em>\nSo u seclude urself\nin search of zeal,\nand loose account of\nwhat you feel.\nU want a find\nthat will rid that rife,\nand u search for that\ninstead of life.</p>\n<p><em>(Chorus 1)</em>\nWhy be a begger?\nholdin a bowl,\naskin the world\nto fill your soul.\nNah... thats not how\nits suppose to be,\nu gotta be a king\nn give ur self for free.</p>\n",
