@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Written by Kevin</title>
+    <link href="https://github.com/spiderkev/writtenbykevin/feed.xml" rel="self" />
+    <link href="https://github.com/spiderkev/writtenbykevin" />
+    <updated>2024-06-15T14:44:46+01:00</updated>
+    <author>
+        <name>Kevin</name>
+    </author>
+    <id>https://github.com/spiderkev/writtenbykevin</id>
+
+    <entry>
+        <title>Sample Page</title>
+        <author>
+            <name>Kevin</name>
+        </author>
+        <link href="https://github.com/spiderkev/writtenbykevin/sample-page.html"/>
+        <id>https://github.com/spiderkev/writtenbykevin/sample-page.html</id>
+
+        <updated>2014-01-02T02:40:02+00:00</updated>
+            <summary>
+                <![CDATA[
+                    This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my blog. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>
+<p>
+
+...or something like this:</p>
+<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
+<p>
+
+As a new WordPress user, you should go to <a href="http://writtenbykevin.com/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Untitled #1</title>
+        <author>
+            <name>Kevin</name>
+        </author>
+        <link href="https://github.com/spiderkev/writtenbykevin/untitled-1.html"/>
+        <id>https://github.com/spiderkev/writtenbykevin/untitled-1.html</id>
+
+        <updated>2013-01-09T19:34:46+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Money is materialistic - it's something you earn. Time is divine - it's something that's given to you. Spend wisely.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Money is materialistic - it's something you earn.
+Time is divine - it's something that's given to you.
+Spend wisely.</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Other</title>
+        <author>
+            <name>Kevin</name>
+        </author>
+        <link href="https://github.com/spiderkev/writtenbykevin/other.html"/>
+        <id>https://github.com/spiderkev/writtenbykevin/other.html</id>
+
+        <updated>2012-04-12T15:38:55+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Stages of Spirituality</title>
+        <author>
+            <name>Kevin</name>
+        </author>
+        <link href="https://github.com/spiderkev/writtenbykevin/stages-of-spirituality.html"/>
+        <id>https://github.com/spiderkev/writtenbykevin/stages-of-spirituality.html</id>
+
+        <updated>2011-11-13T06:53:28+00:00</updated>
+            <summary>
+                <![CDATA[
+                    The first stage is Chaos; when people pretend to care, to cover up for principles that aren't really there. They pretend to love, and they think it's genuine; but their relations with others are fake, and self-serving. Some may be quite disciplined, and succeed in&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The first stage is Chaos;
+when people pretend to care,
+to cover up for principles
+that aren't really there.</p>
+<p>They pretend to love,
+and they think it's genuine;
+but their relations with others
+are fake, and self-serving.</p>
+<p>Some may be quite disciplined,
+and succeed in their profession;
+but they remain unprincipled,
+governed by their own will.</p>
+<p>Many advance,
+to the stage of Institutions,
+when they submit themselves
+to its laws and principles.</p>
+<p>Dependent on the institution,
+they do as their told;
+but they often focus on its means,
+and forget its goals.</p>
+<p>They are threatened by those who think differently.
+They have a “us against the world” mentality.</p>
+<p>Some advance,
+to the stage of Skepticism,
+when they demand ideas that are
+logical and tangible.</p>
+<p>They are genuinely pro-social,
+though individualistic;
+which distinguishes them,
+from the stage of the chaotic.</p>
+<p>They are skeptical, and don't believe everything they have read.
+They dismiss being institutionalized, in order to be saved.</p>
+<p>They are abstracted from illusions,
+and detached from institutions.
+They don't live in extremes,
+but somewhere in between.</p>
+<p>However, they live in a dilemma
+between mysticism and science,
+and they can't decide
+on where their heart is.</p>
+<p>Some continue their seeking,
+and a few find it,
+and transcend
+to the stage of Enlightenment.</p>
+<p>They transcend their mind,
+dilemmas and inhibitions;
+their self, cultures, 
+religions and institutions.</p>
+<p>They find bliss, instead of 
+walls they had thought to exist,
+and see beauty, in the notion
+of a one world family...</p>
+<p>P.S. People can often be in flux;
+they can advance or backslide,
+so this shouldn't be taken intently,
+it only serves as a rough guide...</p>
+<p>
+Inspiration:
+Book: "People of the Lie," by M. Scott Peck</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Burst!</title>
+        <author>
+            <name>Kevin</name>
+        </author>
+        <link href="https://github.com/spiderkev/writtenbykevin/burst.html"/>
+        <id>https://github.com/spiderkev/writtenbykevin/burst.html</id>
+
+        <updated>2011-05-19T02:06:24+01:00</updated>
+            <summary>
+                <![CDATA[
+                    i see no light on a sunny day, I hear no sound on the freeway, I feel no hunger when i don't eat, I feel tired when i sleep. You think I’m tough, but I’m not, I’m weak. I'm physically strong, but I can't take&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>i see no light 
+on a sunny day,
+I hear no sound
+on the freeway,
+I feel no hunger
+when i don't eat,
+I feel tired when i sleep.</p>
+<p>You think I’m tough,
+but I’m not, I’m weak.
+I'm physically strong,
+but I can't take this heat. </p>
+<p>I have no love or self respect;
+I have no past, just regret:
+I'm a king of confusion.
+I’m a slave of emotion.
+I’m a dupe of depression.</p>
+<p>I hear no music
+when i hear a tune,
+I have no life
+outside my room,
+I set my clock
+for 11 am,
+i get up, 
+and then sleep again. </p>
+<p>I get no rest on a quiet night;
+I fall away when I outta fight:
+I'm a king of confusion.
+I’m a slave of emotion.
+I’m a dupe of depression.</p>
+<p>You think I'm fearless,
+but I’m not, I'm scared.
+I look bold, 
+but I'm timid instead.</p>
+<p>My reality is faulty,
+a bland - a tasteless story:
+I'm a king of confusion.
+I’m a slave of emotion.
+I’m a dupe of depression.</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Today, Yesterday and Tomorrow</title>
+        <author>
+            <name>Kevin</name>
+        </author>
+        <link href="https://github.com/spiderkev/writtenbykevin/today-yesterday-and-tomorrow.html"/>
+        <id>https://github.com/spiderkev/writtenbykevin/today-yesterday-and-tomorrow.html</id>
+
+        <updated>2011-04-08T22:08:08+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Decisions grow and you feel low, and pressing thoughts they abrupt your flow, and the road is steep and your hurting deep. You got nothing left to make that leap. If things aren’t going your way, step back, but don’t walk away, ‘cause nothing is&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Decisions grow
+and you feel low,
+and pressing thoughts
+they abrupt your flow,
+and the road is steep
+and your hurting deep.
+You got nothing left
+to make that leap.</p>
+<p>If things aren’t going your way,
+step back, but don’t walk away,
+‘cause nothing is here to stay;
+tomorrow is another day.</p>
+<p>You look back;
+you see regret,
+failure, mistakes
+you recollect,
+different goals 
+you shoulda set,
+your thoughts - your choices,
+they were mislead.</p>
+<p>If things didn’t go your way,
+let go, its okay,
+‘cause nothing is here to stay;
+today is a new day.</p>
+<p>With today’s pace,
+tomorrow is a distant place,
+it’s dark and desolate.
+And you contemplate,
+the moves to make
+to help mitigate
+the uncertainty of fate...</p>
+<p>What if things don’t go your way?
+let go, don’t fall away,
+‘cause nothing is here to stay;
+Fight tomorrow's battles tomorrow
+and today's battles today.</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Our Herd</title>
+        <author>
+            <name>Kevin</name>
+        </author>
+        <link href="https://github.com/spiderkev/writtenbykevin/our-herd.html"/>
+        <id>https://github.com/spiderkev/writtenbykevin/our-herd.html</id>
+
+        <updated>2011-01-10T18:06:25+00:00</updated>
+            <summary>
+                <![CDATA[
+                    We are a herd, we follow the masses that define the terms to which we practice, and strive to be what everyone else is, and ignore the truths by numbing our senses, just to fit in with our bros and our lasses. We cloth our&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We are a herd, we follow the masses
+that define the terms to which we practice,
+and strive to be what everyone else is,
+and ignore the truths by numbing our senses,
+just to fit in with our bros and our lasses.</p>
+<p>We cloth our bodies with jewels and crosses,
+yet we're hungry, we live in darkness,
+we ignore our wins but count our losses,
+satisfaction is our temporary status.</p>
+<p>And those people outside our boundaries,
+they have no name no identities,
+we trade their sweat to build our economies,
+and yet of them is what our fear is.</p>
+<p>And the media, they don't stay true,
+they don't show what they're not supposed to,
+they're no service, they're a business too.
+Profit is their point of view.</p>
+<p>And Entertainment, it's a funny word,
+it is amusing, obscure and absurd.
+it distracts us from our world...
+it kills our time and it drives our herd.</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>My Newsletter, Jan 2011</title>
+        <author>
+            <name>Kevin</name>
+        </author>
+        <link href="https://github.com/spiderkev/writtenbykevin/my-newsletter-jan-2011.html"/>
+        <id>https://github.com/spiderkev/writtenbykevin/my-newsletter-jan-2011.html</id>
+
+        <updated>2011-01-10T17:55:03+00:00</updated>
+            <summary>
+                <![CDATA[
+                    The engine is roaring but everyone is quiet, and its dark around me, except for my reading light. I'm on a greyhound bus, 'cause i couldn't get a flight; my destination - Vancouver, and i`ll be riding all night. I thought I'd take this time&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The engine is roaring
+but everyone is quiet,
+and its dark around me,
+except for my reading light.</p>
+<p>I'm on a greyhound bus,
+'cause i couldn't get a flight;
+my destination - Vancouver,
+and i`ll be riding all night.</p>
+<p>I thought I'd take this time
+to write you`ll another letter;
+as some of you`ll know,
+I do this every quarter.</p>
+<p>I have moved away for studies,
+I think I had sent you`ll that memo...
+its just a 2 hour ferry from Vancouver,
+the city is called Nanaimo.</p>
+<p>Nanaimo is a small city
+with a population of about 90k.
+It's a bit quiet, with not much to do,
+but i like it that way.</p>
+<p>It's a coastal city on an island,
+with a relatively warmer weather,
+a good place for a retiree
+or a nature lover.</p>
+<p>Anyway, I like its laid-back vibe,
+especially at it's university,
+and I have been doing well there so far
+so I think its working out for me.</p>
+<p>My last semester was great!
+and i was sad to see it end,
+'cause I enjoyed all the classes I took,
+and my results were good as well.</p>
+<p>I don't work part-time anymore,
+and don't expect to next sem either,
+so I`ll just be taking 4 core courses,
+and try to intern in the summer.</p>
+<p>I recently moved into an apartment there,
+and said good bye to my dorm,
+but I spent my last few weeks in Calgary,
+I had some quality time at home!</p>
+<p>We had a wonderful Christmas and New Years
+- they were both memorable events.
+Actually my whole holiday at home was amazing,
+it didn't have any dull moments.</p>
+<p>I should probably close soon,
+for this rhyme is growing fast...
+Do write back to me now,
+whenever you`ll have a chance.</p>
+<p>Also, send me your latest email address,
+since my address book needs updating.
+I don't wanna use Facebook for this no more,
+it doesn't allow mass messaging.</p>
+<p>Alright then, time to switch off my light
+and put down my pen.
+My seasons greetings to you,
+and have a happy 2011!</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Walk to the park</title>
+        <author>
+            <name>Kevin</name>
+        </author>
+        <link href="https://github.com/spiderkev/writtenbykevin/walk-to-the-park-2.html"/>
+        <id>https://github.com/spiderkev/writtenbykevin/walk-to-the-park-2.html</id>
+            <category term="audio"/>
+
+        <updated>2010-12-26T08:31:03+00:00</updated>
+            <summary>
+                <![CDATA[
+                    [embed]http://www.youtube.com/watch?v=B-UUuK3fxb4[/embed] Audio Project for DIGI 270, 2010. Walk to the park (an evening in Newfoundland).
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>[embed]http://www.youtube.com/watch?v=B-UUuK3fxb4[/embed]</p>
+<p>Audio Project for DIGI 270, 2010. Walk to the park (an evening in Newfoundland).</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Give ur self</title>
+        <author>
+            <name>Kevin</name>
+        </author>
+        <link href="https://github.com/spiderkev/writtenbykevin/give-ur-self.html"/>
+        <id>https://github.com/spiderkev/writtenbykevin/give-ur-self.html</id>
+
+        <updated>2010-07-24T20:48:10+01:00</updated>
+            <summary>
+                <![CDATA[
+                    (Verse 1) So ur drivin in ur car on that bright lit street, lookin for some fun and a place to eat. The town 's goin quiet n the nights growin long, n ur gettin all restless a thousand miles from home. (Verse 2) Ur&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><em>(Verse 1)</em>
+So ur drivin in ur car
+on that bright lit street,
+lookin for some fun
+and a place to eat.
+The town 's goin quiet
+n the nights growin long,
+n ur gettin all restless
+a thousand miles from home.</p>
+<p><em>(Verse 2)</em>
+Ur lookin for a break
+from ur day-to-day life,
+Ur lookin for a change
+from what u left back.
+but ur lookin for a new
+that resembles the old.
+U aien't lookin for change,
+ur forgettin ur goal.</p>
+<p><em>(Chorus 1)</em>
+Why be a begger?
+holdin a bowl,
+askin the world
+to fill your soul.
+Nah... thats not how
+its suppose to be,
+u gotta be a king
+n give ur self for free.</p>
+<p><em>(Verse 3)</em>
+So ur all dressed up
+in those fancy clothes.
+with gelled up hair
+and a pimped up pose.
+And all these folks
+are below your nose,
+'cause ur here for chicks
+and to flaunt the bros.</p>
+<p><em>(Chorus 2)</em>
+You can't party
+bein that proud,
+wantin to be served
+by the rest of the crowd.
+Nah... thats not how
+its suppose to go,
+u gotta broaden ur mind
+and start the show.</p>
+<p><em>(Verse 4)</em>
+So u seclude urself
+in search of zeal,
+and loose account of
+what you feel.
+U want a find
+that will rid that rife,
+and u search for that
+instead of life.</p>
+<p><em>(Chorus 1)</em>
+Why be a begger?
+holdin a bowl,
+askin the world
+to fill your soul.
+Nah... thats not how
+its suppose to be,
+u gotta be a king
+n give ur self for free.</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
